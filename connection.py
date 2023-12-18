@@ -1,5 +1,5 @@
 class dbconnect:
     host = "localhost"
     username = "root"
-    password = "05k21kkoba"
+    password = "[Enter password]"
     database = "patientportaldb"
